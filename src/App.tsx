@@ -7,7 +7,8 @@ function App() {
   return (
    <div>
      <h1>Learn React</h1>
-     <ExpenseItem />
+     <ExpenseItem title="Ferobol Insurance" date="Today" amount="800 de lei mai mult ca anul trecut fml" />
+     <ExpenseItem title="Title 2"/>
     </div>
   )    
 }
